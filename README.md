@@ -1,0 +1,1 @@
+Familiarizing myself with Django by going through the Quickstart documentation

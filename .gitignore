@@ -1,0 +1,12 @@
+# Database
+*.sqlite3
+
+# pycache
+__pycache__
+
+
+# env
+/env
+
+# Secret Key is stored in settings
+settings.py
