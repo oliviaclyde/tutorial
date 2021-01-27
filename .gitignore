@@ -10,3 +10,6 @@ __pycache__
 
 # Secret Key is stored in settings
 settings.py
+
+# DS Store
+.DS_Store
